@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  Generating Code...
+  Compiling...
+  Dictionary.cpp
+c:\users\zain\source\repos\dsa-project\dsa-project\dictionary.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\zain\source\repos\dsa-project\dsa-project\dictionary.cpp(44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+c:\users\zain\source\repos\dsa-project\dsa-project\dictionary.cpp(117): warning C4715: 'DHT::getDefinition': not all control paths return a value
+  DSA-Project.vcxproj -> C:\Users\Zain\source\repos\DSA-Project\Debug\DSA-Project.exe
