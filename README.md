@@ -1,6 +1,6 @@
 # English Dictionary in C++ with Autocomplete and Autocorrect
 
-Hi
+This is a project I made for my Data Structures and Algorithms course during my undergraduate EE program.
 
 </br  >
 <p align="center">
