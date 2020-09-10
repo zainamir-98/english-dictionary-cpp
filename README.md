@@ -5,6 +5,7 @@ This is a project I made for my Data Structures and Algorithms course during my 
 </br  >
 <p align="center">
   <img alt="HeHe" src="YW8QV9.gif" width=100%>
+  Main menu and word entry
 </p>
 </br  >
 
@@ -15,5 +16,5 @@ This is a project I made for my Data Structures and Algorithms course during my 
 </br  >
 
 Date of creation: December 2018  
-Type of project: Semester project
+Type of project: Semester project  
 Group members: Zain Amir Zaman, Azhan Naqeeb, Shanawar Ali
