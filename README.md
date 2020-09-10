@@ -4,13 +4,13 @@ Hi
 
 </br  >
 <p align="center">
-  <img alt="HeHe" src="YW8QV9.gif" width=50%>
+  <img alt="HeHe" src="YW8QV9.gif" width=100%>
 </p>
 </br  >
 
 </br  >
 <p align="center">
-  <img alt="HeHe" src="ZY1wZE.gif" width=50%>
+  <img alt="HeHe" src="ZY1wZE.gif" width=100%>
 </p>
 </br  >
 
