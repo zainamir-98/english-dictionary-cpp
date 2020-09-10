@@ -2,3 +2,17 @@
 
 Hi
 
+</br  >
+<p align="center">
+  <img alt="HeHe" src="YW8QV9.gif" width=50%>
+</p>
+</br  >
+
+</br  >
+<p align="center">
+  <img alt="HeHe" src="ZY1wZE.gif" width=50%>
+</p>
+</br  >
+
+Date of creation: December 2018  
+Type of project: Semester project
